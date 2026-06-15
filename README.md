@@ -223,6 +223,6 @@ BACKEND_URL=http://localhost:8001
 
 ## Author
 
-**Kedarnadh Thrinadh**
+**Thrinadh Prasadapu**
 
 Built as a full-stack AI portfolio project demonstrating transfer learning, explainable AI, and production-ready API design.
